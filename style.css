@@ -24,7 +24,7 @@ nav {
 }
 
 h1 { 
-    animation: fadeInAnimation ease 0.2s;
+    animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1; 
     animation-fill-mode: forwards; 
 } 
